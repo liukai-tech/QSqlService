@@ -1,0 +1,2 @@
+# QSqlService
+Qt Sql Encapsulation
